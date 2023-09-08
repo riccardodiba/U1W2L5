@@ -1,0 +1,92 @@
+/* Yofonur styles here */ font
+header img {
+    background-color:rgb(1, 1, 47);
+        width: 5%;
+padding-right: 100%;
+padding-left: 20px;
+
+}
+header p {
+    color: white;
+    background-color: rgb(49, 49, 54);
+word-spacing: 10px;
+padding-left: 20px;
+}
+#prima {
+text-align: center;
+    background-color: rgb(212, 60, 9);
+    color: aliceblue;
+    line-height: 1.5;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 20px;
+   margin-right: 20px;
+
+}
+#seconda {
+    background-image: url(../images/bg-image.png);
+    text-align: center;
+        padding: 70px;
+        line-height: 1.5;
+        margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
+color: white;
+font-size: 30px;
+
+}
+h2 {
+    
+    color: white;
+    padding-top: 20px;
+    font-size: 20px;
+ }
+ 
+
+.terza{
+    background-color: white;
+    width: 100%;
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    margin-left: 20px;
+    padding-left: 30px;
+    
+
+}
+.img{
+    display: inline;
+    width: 26%;
+    padding-left: 10px;
+    
+
+}
+.img img {
+    border-radius: 30px;
+    width: 300px;
+    height: 400px;
+    line-height: 1.5;
+}
+.quarta{
+    width: 350px;
+
+}
+footer {
+    color: white;
+        background-color: rgb(49, 49, 54);
+        padding-left: 20px;
+        text-align: center;
+        line-height: 1.5;
+    }
+    .fine{
+        width: 100%;
+    }
+
+
+
+
+   
+
+  
+        
